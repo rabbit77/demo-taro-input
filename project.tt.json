@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "demo-input",
+  "description": "taro input组件在鸿蒙系统demo",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
